@@ -4,7 +4,7 @@
 
 # Taynara Freitas 
 <br>
-<img align="left" padding="20px" alt="Foto  Taynara Freitas" src="https://www.pexels.com/pt-br/foto/computador-laptop-preto-e-cinza-546819/">
+<img align="left" padding="20px" alt="Foto  Taynara Freitas" src="IMG-20230628-WA0017.jpg">
 <h1> 
 
 ## Sobre mim
